@@ -7,7 +7,7 @@
   max-width: 850px;
 }
 a.active{
-  color: #09f;
+  color: green;
 }
 nav {
   padding-top: 20px;
